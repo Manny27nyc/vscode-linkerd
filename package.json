@@ -137,7 +137,7 @@
 		"@types/shelljs": "^0.8.5",
 		"tslint": "^5.16.0",
 		"typescript": "^3.4.3",
-		"vscode": "^1.1.28"
+		"vscode": "^1.1.37"
 	},
 	"dependencies": {
 		"@types/json2md": "^1.5.0",
